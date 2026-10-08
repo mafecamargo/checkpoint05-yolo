@@ -1,0 +1,14 @@
+# PyTorch: YOLO + SlowFast
+torch
+torchvision
+ultralytics
+fvcore
+iopath
+av
+# TensorFlow/Keras: segmentacao (codigo do professor)
+tensorflow
+keras
+keras-hub
+# utilitarios
+opencv-python
+numpy
